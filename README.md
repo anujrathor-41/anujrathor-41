@@ -9,13 +9,9 @@ I enjoy solving problems, designing efficient backend systems, and turning ideas
 
 ⚡ Current Focus
 
-Backend Development (Java, Node.js)
+Backend Development (Node.js)
 
 Full Stack Projects
-
-DevOps fundamentals & system design
-
-Applying AI/ML concepts to real-world use cases
 
 🎯 Goal
 To grow as a skilled Software Engineer and contribute to impactful, high-performance systems that solve real problems.
