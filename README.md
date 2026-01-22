@@ -1,7 +1,7 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Anuj+Rathor+!)
 
 🎓 B.Tech in Computer Science | Class of 2027
-💻 Full Stack Developer | Backend-Focused | Exploring DevOps & Cloud
+💻 Full Stack Developer | Backend-Focused 
 ☕ Strong foundation in Core Java
 
 🚀 I’m passionate about building scalable, real-world applications and continuously exploring new technologies.
